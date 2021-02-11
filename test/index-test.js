@@ -28,3 +28,7 @@ describe('functions', () => {
     })
   })
 })
+
+function happyHolidays(){
+  return "Happy holidays!";
+}
